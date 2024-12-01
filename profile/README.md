@@ -6,7 +6,7 @@ The IUT Vision-Language Reading Group aims to provide a collaborative platform f
 
 By encouraging interdisciplinary collaboration and the exchange of diverse perspectives, VLRG seeks to bridge the gap between theoretical research and practical applications in computer vision and natural language processing. We actively support the development of innovative solutions that address real-world challenges, while also nurturing the academic growth of our members. Whether you are a seasoned researcher or just starting your journey in these fields, VLRG provides a dynamic space for learning, networking, and pushing the boundaries of what’s possible in AI and machine learning.
 
-## Founders
+## Founders & Presenters
 - Syed Rifat Raiyan
 - Ishmam Tashdeed
 - Md Farhan Ishmam
